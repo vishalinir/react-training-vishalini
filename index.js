@@ -1,9 +1,3 @@
-// const app = {
-//     name: 'demo',
-// }
-
-// exports.app = app
-
 const express = require('express')
 
 const app = express()
